@@ -1,0 +1,17 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="de">locale/vault_de.qm</file>
+        <file alias="en">locale/vault_en.qm</file>
+        <file alias="en_US">locale/vault_en_US.qm</file>
+        <file alias="es">locale/vault_es.qm</file>
+        <file alias="es_ES">locale/vault_es_ES.qm</file>
+        <file alias="fr_FR">locale/vault_fr_FR.qm</file>
+        <file alias="hr_HR">locale/vault_hr_HR.qm</file>
+        <file alias="it">locale/vault_it.qm</file>
+        <file alias="ko_KR">locale/vault_ko_KR.qm</file>
+        <file alias="nl">locale/vault_nl.qm</file>
+        <file alias="pl">locale/vault_pl.qm</file>
+        <file alias="ru">locale/vault_ru.qm</file>
+        <file alias="zh_CN">locale/vault_zh_CN.qm</file>
+    </qresource>
+</RCC>

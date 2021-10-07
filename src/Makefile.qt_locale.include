@@ -1,0 +1,14 @@
+QT_TS = \
+  qt/locale/vault_de.ts \
+  qt/locale/vault_en.ts \
+  qt/locale/vault_en_US.ts \
+  qt/locale/vault_es.ts \
+  qt/locale/vault_es_ES.ts \
+  qt/locale/vault_fr_FR.ts \
+  qt/locale/vault_hr_HR.ts \
+  qt/locale/vault_it.ts \
+  qt/locale/vault_ko_KR.ts \
+  qt/locale/vault_nl.ts \
+  qt/locale/vault_pl.ts \
+  qt/locale/vault_ru.ts \
+  qt/locale/vault_zh_CN.ts
