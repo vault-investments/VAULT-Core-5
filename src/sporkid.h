@@ -26,6 +26,7 @@ enum SporkId : int32_t {
     SPORK_21_STAKE_REQ_AG                       = 10020,
     SPORK_22_STAKE_REQ_SZ                       = 10021,
     SPORK_23_SAPLING_MAINTENANCE                = 10022,
+    SPORK_24_FORCE_ENABLED_MASTERNODE           = 10023,
 
     SPORK_INVALID                               = -1
 };
